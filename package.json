@@ -12,7 +12,8 @@
 		"mongoose": "^5.13.7"
 	},
 	"scripts": {
-		"serve":"node index.js",
+		"serve": "node index.js",
+		"start": "node index.js",
 		"dev": "nodemon index.js"
 	},
 	"devDependencies": {
